@@ -31,7 +31,7 @@
 
 ## Single Command :
 ```
-apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/unfollo.git ; cd unfollo ; bash unfollo.sh
+apt update ; apt install git curl -y ; git clone git://github.com/yezz123/unfollo.git ; cd unfollo ; bash unfollo.sh
 ```
 <br>
 <p align="center">
