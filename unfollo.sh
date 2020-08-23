@@ -27,7 +27,7 @@ printf " \e[1;93m| |_| | | | |  __   | || (_) | | | (_) |     \e[1;92m   \e[0m\n
 printf " \e[1;93m \___/|_| |_|  __   |_| \___/|_|_|\___/           \e[0m\n"
 printf " \e[0m\n"
 printf " \e[1;96m [\e[0m\e[1;97m-\e[0m\e[1;96m]\e[0m\e[1;92m Created By EliteStuff (Yasser (Yezz123))\e[0m\n"
-printf " \e[1;96m [\e[0m\e[1;97m-\e[0m\e[1;96m]\e[0m\e[1;92m follow me @sadnessvibewithbadeffect \e[0m\n"
+printf " \e[1;96m [\e[0m\e[1;97m-\e[0m\e[1;96m]\e[0m\e[1;92m follow me @froggy__19 \e[0m\n"
 printf " \e[0m\n"
 
 }
