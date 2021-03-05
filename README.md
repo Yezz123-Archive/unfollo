@@ -42,6 +42,8 @@ apt update ; apt install git curl -y ; git clone git://github.com/yezz123/unfoll
 #### [+] 100 % secure !
 #### [+] Easy for Beginners !
 
+## Disclaimer  :
+This project can only be used for educational purposes. Using this software against target systems without prior permission is illegal, and any damages from misuse of this software will not be the responsibility of the author.
 
 <p align="center">
   Follow Me On
